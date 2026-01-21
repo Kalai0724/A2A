@@ -1,0 +1,6 @@
+INFO:     ::1:49685 - "GET /sse HTTP/1.1" 200 OK
+INFO:     ::1:49686 - "POST /messages/?session_id=89c459a3955246dd87a4ae47d35ff989 HTTP/1.1" 202 Accepted
+INFO:     ::1:49686 - "POST /messages/?session_id=89c459a3955246dd87a4ae47d35ff989 HTTP/1.1" 202 Accepted
+INFO:     ::1:49686 - "POST /messages/?session_id=89c459a3955246dd87a4ae47d35ff989 HTTP/1.1" 202 Accepted
+INFO:     ::1:49686 - "POST /messages/?session_id=89c459a3955246dd87a4ae47d35ff989 HTTP/1.1" 202 Accepted
+INFO:     ::1:49686 - "POST /messages/?session_id=89c459a3955246dd87a4ae47d35ff989 HTTP/1.1" 202 Accepted

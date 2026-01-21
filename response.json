@@ -1,0 +1,46 @@
+[
+  {
+    "hotelName": "Hilton London Paddington",
+    "hotelId": "209371",
+    "vendors": [
+      {"price": "279", "tax": "70", "vendor": "Prestigia.com"},
+      {"price": "253", "tax": "51", "vendor": "eDreams"},
+      {"price": "244", "tax": "48", "vendor": "Nustay.com"},
+      {"price": null, "tax": null, "vendor": null},
+      {"price": "253", "tax": "51", "vendor": "Tripadvisor"}
+    ]
+  },
+  {
+    "hotelName": "Park Grand London Hyde Park",
+    "hotelId": "3164384",
+    "vendors": [
+      {"price": "263", "tax": "53", "vendor": "eDreams"},
+      {"price": "263", "tax": "53", "vendor": "Booking.com"},
+      {"price": "263", "tax": "53", "vendor": "Agoda.com"},
+      {"price": null, "tax": null, "vendor": null},
+      {"price": "263", "tax": "53", "vendor": "Tripadvisor"}
+    ]
+  },
+  {
+    "hotelName": "Park Plaza Westminster Bridge London",
+    "hotelId": "1657415",
+    "vendors": [
+      {"price": "426", "tax": "85", "vendor": "eDreams"},
+      {"price": "451", "tax": "113", "vendor": "Prestigia.com"},
+      {"price": "415", "tax": "82", "vendor": "Nustay.com"},
+      {"price": "455", "tax": "91", "vendor": "Agoda.com"},
+      {"price": null, "tax": null, "vendor": null}
+    ]
+  },
+  {
+    "hotelName": "The Darlington Hyde Park",
+    "hotelId": "214639",
+    "vendors": [
+      {"price": "252", "tax": "50", "vendor": "eDreams"},
+      {"price": "252", "tax": "50", "vendor": "Booking.com"},
+      {"price": "251", "tax": "50", "vendor": "Agoda.com"},
+      {"price": null, "tax": null, "vendor": null},
+      {"price": "252", "tax": "50", "vendor": "Tripadvisor"}
+    ]
+  }
+]

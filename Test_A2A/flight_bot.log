@@ -1,0 +1,10 @@
+2026-01-13 11:57:38,775 INFO Requesting URL: https://api.flightapi.io/oneway/6965d276cfa8ea78e071c179/JFK/LAX/2026-01-25/2026-01-30/2/0/0/economy
+2026-01-13 11:57:39,996 INFO HTTP Request: GET https://api.flightapi.io/oneway/6965d276cfa8ea78e071c179/JFK/LAX/2026-01-25/2026-01-30/2/0/0/economy "HTTP/1.1 404 Not Found"
+2026-01-13 11:57:39,999 INFO Response status: 404
+2026-01-13 11:57:39,999 INFO Response text: <!DOCTYPE html><html><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"/><meta name="next-head-count" content="2"/><link rel="preload" href="/_next/static/wrOUG4WZy7nEHyguf1rmT/pages/_app.js" as="script"/><link rel="preload" href="/_next/static/runtime/webpack-4b444dab214c6491079c.js" as="script"/><link rel="preload" href="/_next/static/chunks/commons.c8f2132c0ba743a77bce.js" as="script"/><link rel="preload" href="/_next/static/runtime
+2026-01-13 11:57:40,000 ERROR Bot: Sorry, HTTP 404 from the flight API.
+2026-01-13 12:07:03,150 INFO Requesting URL: https://api.flightapi.io/oneway/6965d276cfa8ea78e071c179/JFK/LAX/2026-01-25/2026-01-28/1/0/0/economy
+2026-01-13 12:07:04,434 INFO HTTP Request: GET https://api.flightapi.io/oneway/6965d276cfa8ea78e071c179/JFK/LAX/2026-01-25/2026-01-28/1/0/0/economy "HTTP/1.1 404 Not Found"
+2026-01-13 12:07:04,436 INFO Response status: 404
+2026-01-13 12:07:04,437 INFO Response text: <!DOCTYPE html><html><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"/><meta name="next-head-count" content="2"/><link rel="preload" href="/_next/static/wrOUG4WZy7nEHyguf1rmT/pages/_app.js" as="script"/><link rel="preload" href="/_next/static/runtime/webpack-4b444dab214c6491079c.js" as="script"/><link rel="preload" href="/_next/static/chunks/commons.c8f2132c0ba743a77bce.js" as="script"/><link rel="preload" href="/_next/static/runtime
+2026-01-13 12:07:04,438 ERROR Bot: Sorry, HTTP 404 from the flight API.

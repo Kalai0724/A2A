@@ -1,0 +1,34 @@
+C:\Users\swari\Downloads\a2a-samples-main\a2a-samples-main\samples\python\agents\a2a_mcp\src\a2a_mcp\mcp\server.py:9: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+[01/10/26 15:33:48] INFO     Loading agent cards from card repo:   server.py:59
+                             agent_cards                                       
+                    INFO     Reading file:                         server.py:66
+                             air_ticketing_agent.json                          
+                    INFO     Reading file: car_rental_agent.json   server.py:66
+                    INFO     Reading file:                         server.py:66
+                             hotel_booking_agent.json                          
+                    INFO     Reading file: orchestrator_agent.json server.py:66
+                    INFO     Reading file: planner_agent.json      server.py:66
+                    INFO     Finished loading agent cards. Found 5 server.py:83
+                             cards.                                            
+                    INFO     Generating Embeddings for agent cards server.py:99
+[01/10/26 15:33:50] INFO     Agent cards MCP Server at            server.py:292
+                             localhost:10100 and transport sse                 
+INFO:     Started server process [19196]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://localhost:10100 (Press CTRL+C to quit)
+[01/10/26 15:33:58] INFO     Processing request of type           server.py:713
+                             CallToolRequest                                   
+                    INFO     Processing request of type           server.py:713
+                             ListToolsRequest                                  
+                    INFO     Processing request of type           server.py:713
+                             ReadResourceRequest                               
+                    INFO     Starting read resources              server.py:263
